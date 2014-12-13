@@ -1,0 +1,1112 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"MAX",
+				"max-width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"p",
+				"pulseira2.png	w:165 h:135"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"el",
+				"elseif	elseif …"
+			],
+			[
+				"ano",
+				"anoV"
+			],
+			[
+				"mes",
+				"mesV"
+			],
+			[
+				"arr",
+				"arrdois"
+			],
+			[
+				"dia",
+				"diaV"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"tim",
+				"timeUmDia"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"defa",
+				"date_default_timezone_set"
+			],
+			[
+				"con",
+				"cond"
+			],
+			[
+				"bre",
+				"BREAK"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"FONT",
+				"font-weight"
+			],
+			[
+				"co",
+				"como-funciona.html"
+			],
+			[
+				"per",
+				"perguntas.html"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"c",
+				"como-funciona.jpg	w:329 h:231"
+			],
+			[
+				"e",
+				"left"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"preco",
+				"precofinal"
+			],
+			[
+				"pre",
+				"preco_atacado"
+			],
+			[
+				"curr",
+				"currency"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"stri",
+				"strip"
+			],
+			[
+				"str",
+				"stringAll"
+			],
+			[
+				"a",
+				"atual"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"cont",
+				"contDois"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"qu",
+				"quebralinha"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"conte",
+				"content	Attr"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"sm",
+				"small	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"pa",
+				"paging	paging"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"cl",
+				"cliente"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"mysqli_re",
+				"mysqli_real_escape_string"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"glyph",
+				"glyph-koalla.css"
+			],
+			[
+				"ow",
+				"owl-carousel"
+			],
+			[
+				"la",
+				"layouts/"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"re",
+				"rel	Attr"
+			],
+			[
+				"j",
+				"jquery.mmenu.min.all.js"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"fo",
+				"font/"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"face",
+				"facebook_link"
+			],
+			[
+				"ads",
+				"ads720"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"al",
+				"alt	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"set",
+				"Set Syntax: CSS3"
+			],
+			[
+				"bs3 ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"set syntax: ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax:ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax:Cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"set s",
+				"Set Syntax: CSS3"
+			],
+			[
+				"bs3 h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"xde",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"x",
+				"Xdebug: Restart Session"
+			],
+			[
+				"bs3h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"set synxa:sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3li",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"set syntax: js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bs3 co",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"bs3b",
+				"Snippet: bs3-button"
+			],
+			[
+				"bs3 col",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"set syn",
+				"Set Syntax: LESS"
+			],
+			[
+				"bs3ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3-ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"prefe",
+				"Preferences: Xdebug Settings – User"
+			],
+			[
+				"xdebug:",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set synta",
+				"Set Syntax: LESS"
+			],
+			[
+				"set syntax:",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax:cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"set syntax",
+				"Set Syntax: CSS3"
+			],
+			[
+				"set syntax:p",
+				"Set Syntax: PHP"
+			],
+			[
+				"set sytax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"bs3co",
+				"Snippet: bs3-container"
+			],
+			[
+				"set syntax:html",
+				"Set Syntax: HTML"
+			],
+			[
+				"bs3c",
+				"Snippet: bs3-cdn"
+			],
+			[
+				"set syntax: css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"se",
+				"Set Syntax: PHP"
+			],
+			[
+				"set sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"SET",
+				"Set Syntax: Markdown"
+			],
+			[
+				"wpre",
+				"Snippet: wpreset"
+			],
+			[
+				"set syntax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"wo",
+				"WordPress Developer: Open Function Reference"
+			],
+			[
+				"set syntax:v",
+				"Set Syntax: VCL"
+			],
+			[
+				"sni",
+				"Snippet: wpreset"
+			],
+			[
+				"snipp",
+				"Snippet: wpreset"
+			],
+			[
+				"set syntax: vc",
+				"Set Syntax: VCL"
+			],
+			[
+				"set syntax:vc",
+				"Set Syntax: VCL"
+			],
+			[
+				"set syntax:le",
+				"Set Syntax: LESS"
+			],
+			[
+				"bs3-e",
+				"Snippet: bs3-input-email"
+			],
+			[
+				"reset",
+				"Snippet: cssreset"
+			],
+			[
+				"bs3-h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"set syntax: cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax: ",
+				"Set Syntax: HTML"
+			],
+			[
+				"set synt",
+				"Set Syntax: CSS3"
+			],
+			[
+				"dy",
+				"Snippet: dynamic_sidebar"
+			],
+			[
+				"short",
+				"Snippet: do_shortcode"
+			],
+			[
+				"conte",
+				"Snippet: content-template"
+			],
+			[
+				"Snippet: wo",
+				"Snippet: while_loop"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"s3",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-table"
+			],
+			[
+				"bst",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"SET SYNT",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"m",
+				"Minify::Default File Settings"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"min",
+				"Minify::Minify File"
+			],
+			[
+				"trimm",
+				"Trimmer: Remove blank spaces."
+			],
+			[
+				"trim",
+				"Trimmer: Collapse empty lines."
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/aulas/mysqli"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/aulas/mysqli/config.php",
+		"/C/xampp/htdocs/aulas/mysqli/connect.php",
+		"/C/xampp/htdocs/aulas/mysqli/database.php",
+		"/C/xampp/htdocs/aulas/mysqli/index.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.390/add-post.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.374/index.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.081/footer.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.270/header.php",
+		"/C/xampp/htdocs/zonadez.com/.htaccess",
+		"/C/xampp/htdocs/zonadez.com/modulos/Url/class.Url.php",
+		"/C/xampp/htdocs/zonadez.com/modulos/data/class.data.php",
+		"/C/xampp/htdocs/zonadez.com/modulos/Mysql/class.Mysql.php",
+		"/C/xampp/htdocs/perfumep/HOMEM/less/variaveis.less",
+		"/C/xampp/htdocs/perfumep/HOMEM/less/style.less",
+		"/C/xampp/htdocs/perfumep/HOMEM/index.html",
+		"/C/xampp/htdocs/perfumep/HOMEM/css/style.css",
+		"/C/xampp/htdocs/zonadez.com/modulos/AdminLogin/class.AdminLogin.php",
+		"/C/xampp/htdocs/perfumep/MULHER/css/style.css",
+		"/C/xampp/htdocs/perfumep/MULHER/less/variaveis.less",
+		"/C/xampp/htdocs/perfumep/MULHER/index.html",
+		"/C/xampp/htdocs/perfumep/MULHER/less/style.less",
+		"/C/xampp/htdocs/zonadez.com/admin/locutores.php",
+		"/C/xampp/htdocs/zonadez.com/admin/gerenciador.php",
+		"/C/xampp/htdocs/zonadez.com/admin/ajaxdel.php",
+		"/C/xampp/htdocs/zonadez.com/admin/css/painel.css",
+		"/C/xampp/htdocs/zonadez.com/admin/painel.php",
+		"/C/xampp/htdocs/zonadez.com/admin/__view/config.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/fz3temp-1/connection 2.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/fz3temp-1/connection.php",
+		"/C/xampp/htdocs/thughits2013/admin/painel.php",
+		"/C/xampp/htdocs/thughits2013/admin/__view/noticias.php",
+		"/C/xampp/htdocs/thughits2013/admin/upload_func.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.379/thughits.sql",
+		"/C/xampp/htdocs/baixeshows/landing/index.html",
+		"/C/xampp/htdocs/baixeshows/landing/humans.txt",
+		"/C/xampp/htdocs/baixeshows/landing/robots.txt",
+		"/C/Users/Rai Siqueira/Downloads/sitemap.xml",
+		"/C/Users/Rai Siqueira/Desktop/index.html",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.154/default.css",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.679/default.css",
+		"/C/Users/Rai Siqueira/Desktop/site/index.html",
+		"/C/xampp/htdocs/thughits2013/index.php",
+		"/C/xampp/htdocs/thughits2013/admin/login.php",
+		"/C/xampp/htdocs/thughits2013/sys/connection.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.405/class.shoutcast.php",
+		"/C/xampp/htdocs/thughits2013/thughits.sql",
+		"/C/xampp/htdocs/iFrame/system/model.php",
+		"/C/xampp/htdocs/iFrame/install/config.php",
+		"/C/xampp/htdocs/iFrame/app/exemplos/controllers/UploadController.php",
+		"/C/xampp/htdocs/iFrame/app/exemplos/views/ExemploUploadView.php",
+		"/C/xampp/htdocs/iFrame/system/controller.php",
+		"/C/xampp/htdocs/zonadez.com/index.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.316/index.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.970/config.php",
+		"/C/xampp/htdocs/teste-tooltip/css.css",
+		"/C/xampp/htdocs/teste-tooltip/index.html",
+		"/C/xampp/htdocs/perfumep/less/style.less",
+		"/C/xampp/htdocs/perfumep/index.html",
+		"/C/Users/Rai Siqueira/Desktop/imevent/style.css",
+		"/C/Users/Rai Siqueira/Desktop/imevent/single.php",
+		"/C/Users/Rai Siqueira/Desktop/imevent/blog_template.php",
+		"/C/Users/Rai Siqueira/Desktop/imevent/header.php",
+		"/C/Users/Rai Siqueira/Desktop/imevent/index.php",
+		"/C/Users/Rai Siqueira/Desktop/imevent/home_template.php",
+		"/C/xampp/htdocs/teste-player/css.css",
+		"/C/xampp/htdocs/teste-player/index.html",
+		"/C/xampp/htdocs/teste-player/css.css.erb",
+		"/C/xampp/htdocs/perfumep/less/variaveis.less",
+		"/C/xampp/htdocs/info.php",
+		"/C/xampp/htdocs/perfumep/js/main.js",
+		"/C/Users/Rai Siqueira/Desktop/imevent/style.php",
+		"/C/xampp/htdocs/perfumep/css/style.css",
+		"/C/xampp/htdocs/perfumep/fonts/stylesheet.css",
+		"/C/xampp/htdocs/baixeshows/landing/less/style.less",
+		"/C/xampp/htdocs/baixeshows/landing/less/variaveis.less",
+		"/C/Users/Rai Siqueira/Desktop/imevent/assets/js/theme.js",
+		"/C/xampp/htdocs/baixeshows/landing/js/main.js",
+		"/C/Users/Rai Siqueira/Desktop/imevent/assets/js/register_event.js",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.261/theme.js",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.998/style.css",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.631/header.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.581/listpaypal-style.css",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.721/theme-init.js",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.281/theme-config.js",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.588/register_event.js",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.322/custom.js",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.606/waypoints.js",
+		"/C/Users/Rai Siqueira/Dropbox/Public/baixehows/baixeshows/landing/index.html",
+		"/C/Users/Rai Siqueira/Desktop/PROJETOS/Koalla/notify/index(ajax mailchimp form).html",
+		"/C/Users/Rai Siqueira/Desktop/PROJETOS/Koalla/notify/css/main.css",
+		"/C/Users/Rai Siqueira/Desktop/PROJETOS/Koalla/notify/js/main.js",
+		"/C/Users/Rai Siqueira/Desktop/PROJETOS/Koalla/notify/js/jquery.js",
+		"/C/Users/Rai Siqueira/Desktop/PROJETOS/Koalla/notify/js/backstretch.js",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.102/theme.js",
+		"/C/Users/RAISIQ~1/AppData/Local/Temp/Rar$DRa0.928/33-newsletter-form/index.html",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.661/style.css",
+		"/C/xampp/htdocs/magento18/app/design/frontend/blacknwhite/default/template/ajax/catalog/product/view.phtml",
+		"/C/xampp/htdocs/studiokoalla/index.html",
+		"/C/xampp/htdocs/baixeshows/landing/fonts/stylesheet.css",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.428/404.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.876/index.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.160/home_template.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.978/header.php",
+		"/C/xampp/htdocs/baixeshows/landing/less/variaveis",
+		"/C/xampp/htdocs/upinside/exercicios/data-pratica.php",
+		"/C/xampp/htdocs/upinside/projeto/tpl/pagina/perfil.php",
+		"/C/xampp/htdocs/upinside/projeto/tpl/pagina/login.php",
+		"/C/xampp/htdocs/gislainematos/less/style.less",
+		"/C/xampp/htdocs/gislainematos/css/style.css",
+		"/C/xampp/htdocs/gislainematos/index.html",
+		"/C/xampp/htdocs/studiokoalla/css/animate.css",
+		"/C/xampp/htdocs/aumentop/css/style.css",
+		"/C/Users/Rai Siqueira/Desktop/sistemaDownloads/db_downloads.sql",
+		"/C/xampp/htdocs/painelpadrao/painel/geral/ctrlConfiguracao.php",
+		"/C/xampp/htdocs/painelpadrao/painel/classes/pdo/InsertQuery.php",
+		"/C/xampp/htdocs/painelpadrao/painel/classes/pdo/BaseQuery.php",
+		"/C/xampp/htdocs/fileup4/.htaccess",
+		"/C/xampp/htdocs/painelpadrao/ctrl.php",
+		"/C/xampp/htdocs/painelpadrao/painel/classes/class.conexao.php",
+		"/C/xampp/htdocs/painelpadrao/painel/classes/pdo/tests/connect.inc.php",
+		"/C/xampp/htdocs/painelpadrao/internas/principal.php",
+		"/C/xampp/htdocs/painelpadrao/internas/institucional.php",
+		"/C/xampp/htdocs/painelpadrao/inc/pagseguro/frete.php",
+		"/C/xampp/htdocs/painelpadrao/banco-de-dados.sql",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.304/uploader.class.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.365/charts.class.php",
+		"/C/Users/Rai Siqueira/AppData/Local/Temp/Rar$DIa0.571/index.php",
+		"/C/Users/Rai Siqueira/Desktop/Bebidas-x.xml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@rosa",
+			"h4",
+			"animation",
+			"/",
+			"#ea032d",
+			"preloader",
+			"span",
+			"div",
+			"ul",
+			"right",
+			"span",
+			"section",
+			"div",
+			"em",
+			"div",
+			"upload",
+			"div",
+			"class=\"icone\"",
+			" class=\"list-group-item\"",
+			"links",
+			"i",
+			"$valor",
+			"valor",
+			"		",
+			"	",
+			"			",
+			"		",
+			"h1",
+			"col-md-4 col-lg-4",
+			"Availability",
+			"#666",
+			"666",
+			"<i class=\"ion-ios7-pulse-strong icone\">",
+			"Item 1",
+			"fa fa-music icone",
+			"i",
+			"h3",
+			"clientes",
+			"nome",
+			"upload",
+			"span",
+			".short",
+			"lang",
+			"search",
+			"#search",
+			"3",
+			"	",
+			"			",
+			"		",
+			"customer-name",
+			"top",
+			"update",
+			"upload",
+			"php",
+			"admin",
+			"images",
+			"redux_demo",
+			"zoomarts_options",
+			"zoomarts_option",
+			"marts_option",
+			"zoomarts_option",
+			"global $redux",
+			"zoomarts_option",
+			"rs_options",
+			"zoomarts",
+			"images",
+			"redux-framework-demo",
+			"#e54040",
+			"#d83c3c",
+			".form-wrapper",
+			"h2",
+			"  ",
+			"    ",
+			"   ",
+			"  ",
+			"bluth",
+			"#footer-body ",
+			"instagram-interactions",
+			"instagram-images",
+			"bl_instagram",
+			"rs-framework/init.php",
+			"form",
+			"post_event_date",
+			"cmb",
+			"tf_events_meta",
+			"tf_events_create",
+			"tf",
+			"tf_events_custom_columns",
+			"tf_events_edit_columns",
+			"tf_events",
+			"create_event_postype",
+			"tf_functions_css",
+			"create_event_postype",
+			"Event",
+			"event",
+			"Event",
+			"oct",
+			"    ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"#header1",
+			"<p>",
+			"embed",
+			"za_",
+			"za_post_audio",
+			"za_",
+			"za_post_video",
+			"	",
+			"		",
+			"	",
+			"		",
+			"2",
+			"za_",
+			"carousel",
+			"	",
+			"     ",
+			"    ",
+			"	",
+			"owl",
+			"post-thumb",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "mysqli.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"js\\site.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
